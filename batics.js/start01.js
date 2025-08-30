@@ -1,1 +1,1 @@
-console.log("This is not a vs_code");
+console.log("r=this room i not for everyone");
